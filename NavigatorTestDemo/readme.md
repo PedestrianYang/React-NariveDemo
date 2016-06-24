@@ -1,0 +1,1 @@
+这是关于navigator的使用方法，包括界面跳转时，不同界面的navigationBar的样式修改
